@@ -1,1 +1,2 @@
 git init :To initialize git in local workspace
+git add : To add all files in workspace into staging area
